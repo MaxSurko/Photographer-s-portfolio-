@@ -459,6 +459,7 @@ button.mfp-arrow {
 
 .form_contacts textarea{
 	resize: vertical;
+	min-height: 120px;
 }
 
 .button {
